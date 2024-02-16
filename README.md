@@ -6,7 +6,6 @@ A Flutter plugin that enables flutter apps to receive sharing photos, videos, te
 
 
 
-https://github.com/Mehboob-alam1/Receiving_Sharing_Intent_Flutter_Plugin/assets/74241277/81e37bc4-7935-4e58-9320-8e1429fc951c
 
 ![Alt Text](./example/demo.gif)
 
